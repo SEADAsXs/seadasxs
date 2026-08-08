@@ -1,8 +1,9 @@
 <div style="font-family: 'Courier New', Courier, monospace;">
 
-<!-- Header estático estilo terminal en texto plano (sin animaciones de fondo) -->
-<h1 align="center"><code>SEADAsXs</code></h1>
-<p align="center"><b><code>Full Stack Developer | IoT | Cybersecurity</code></b></p>
+<!-- Header con ondas elegantes de fondo y fuente Courier New sin gradientes estridentes -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111,222222,333333&height=200&section=header&text=SEADAsXs&fontSize=42&fontColor=ffffff&fontType=Courier+New&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20IoT%20|%20Cybersecurity&descAlignY=58&descAlign=50&descColor=aaaaaa" width="100%" />
+</p>
 
 <!-- Texto animado tipo máquina de escribir con fuente Courier New -->
 <h4 align="center">
@@ -68,7 +69,13 @@
 <br />
 
 <!-- Analytics monocromático -->
-<h2 align="center"><code>...</code></h2>
+<h2 align="center"><code>Analytics</code></h2>
 
 <hr>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEADAsXs&layout=compact&theme=transparent&text_color=ffffff&title_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEADAsXs&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=333333" alt="Overall Stats" />
+</p>
+
 </div>
