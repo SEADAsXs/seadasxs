@@ -1,6 +1,6 @@
 <!-- Header minimalista estilo tipografía de terminal -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=Tu%20Nombre&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20|%20IoT%20|%20Cybersecurity&descAlignY=70&descAlign=50&descColor=aaaaaa" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=SEADAsXs&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20|%20IoT%20|%20Cybersecurity&descAlignY=70&descAlign=50&descColor=aaaaaa" width="100%" />
 </p>
 
 <!-- Texto animado tipo máquina de escribir con fuente Courier (Monospace) y menor tamaño -->
