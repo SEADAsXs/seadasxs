@@ -1,9 +1,13 @@
 <div style="font-family: 'Courier New', Courier, monospace;">
 
-<!-- Header con Ondas Elegantes Monocromáticas (Garantizado) -->
+<!-- Banner animado local -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=18181b&height=200&section=header&text=SEADAsXs&fontSize=42&fontColor=ffffff&fontType=Courier+New&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20IoT%20|%20Cybersecurity&descAlignY=58&descAlign=50&descColor=a1a1aa" width="100%" alt="Header SEADAsXs" />
+  <img src="./animated-banner.svg" alt="Animated Banner" width="100%" />
 </p>
+
+<!-- Header estático estilo terminal -->
+<h1 align="center">SEADAsXs</h1>
+<p align="center"><b>Full Stack Developer | IoT | Cybersecurity</b></p>
 
 <!-- Texto animado tipo máquina de escribir con fuente Courier New -->
 <h4 align="center">
