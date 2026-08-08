@@ -1,6 +1,11 @@
-<!-- Header minimalista estilo tipografía de terminal -->
+<!-- Header con líneas y movimiento dinámico elegante -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=SEADAsXs&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20|%20IoT%20|%20Cybersecurity&descAlignY=70&descAlign=50&descColor=aaaaaa" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=SEADAsXs&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20|%20IoT%20|%20Cybersecurity&descAlignY=58&descAlign=50&descColor=aaaaaa" width="100%" />
+</p>
+
+<!-- Fondo con líneas de código en movimiento tipo lluvia / partículas sutiles -->
+<p align="center">
+  <img src="https://svg-banners.my.id/api?type=origin&text1=SEADAsXs%20System%20Core&text2=%3E_%20Initializing%20environment...&width=800&height=100&theme=dark" width="100%" />
 </p>
 
 <!-- Texto animado tipo máquina de escribir con fuente Courier (Monospace) y menor tamaño -->
@@ -12,13 +17,14 @@
 
 <br />
 
-<!-- Sección de Habilidades (Mantiene los colores de los badges intactos) -->
+<!-- Sección de Habilidades -->
 <h2 align="center"><code>&lt;/&gt; Skills &amp; Technologies &lt;/&gt;</code></h2>
 
 <hr>
 
 <p align="center"><b>💻 Programming, Web, Backend, Database & Data Visualization</b></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <br>
@@ -30,19 +36,34 @@
   <br>
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL%20WORKBENCH-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <p align="center"><b>🔒 Cybersecurity</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/WIRESHARK-167DA4?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/BURP%20SUITE-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/FORTINET-CC0000?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESET%20BUSINESS-007A87?style=for-the-badge&logo=eset&logoColor=white" />
 </p>
 
-<p align="center"><b>⚙️ Tools & Platforms</b></p>
+<p align="center"><b>💼 ERP & CRM Systems</b></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/TANGO%20GESTION-00529B?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+<p align="center"><b>🖥️ Consoles & Administration</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GOOGLE%20WORKSPACE%20CONSOLE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/MICROSOFT%20365%20ADMIN-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+<p align="center"><b>⚙️ Tools, Terminals & Platforms</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMD%20%2F%20TERMINAL-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/KALI%20LINUX-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -50,7 +71,12 @@
 
 <br />
 
-<!-- Analytics con tema monocromático oscuro / minimalista -->
-<h2 align="center"><code>...</code></h2>
+<!-- Analytics con tema monocromático oscuro -->
+<h2 align="center"><code>Analytics</code></h2>
 
 <hr>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEADAsXs&layout=compact&theme=transparent&text_color=ffffff&title_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEADAsXs&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=333333" alt="Overall Stats" />
+</p>
