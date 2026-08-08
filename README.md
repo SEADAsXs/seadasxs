@@ -1,12 +1,17 @@
-<!-- Header minimalista estilo tipografía de terminal -->
+<!-- Header con líneas y movimiento dinámico elegante -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=SEADAsXs&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20|%20IoT%20|%20Cybersecurity&descAlignY=70&descAlign=50&descColor=aaaaaa" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=SEADAsXs&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20|%20IoT%20|%20Cybersecurity&descAlignY=58&descAlign=50&descColor=aaaaaa" width="100%" />
 </p>
 
-<!-- Texto animado tipo máquina de escribir CORREGIDO -->
+<!-- Fondo con líneas de código en movimiento tipo lluvia / partículas sutiles -->
+<p align="center">
+  <img src="https://svg-banners.my.id/api?type=origin&text1=SEADAsXs%20System%20Core&text2=%3E_%20Initializing%20environment...&width=800&height=100&theme=dark" width="100%" />
+</p>
+
+<!-- Texto animado tipo máquina de escribir con fuente Courier (Monospace) y menor tamaño -->
 <h4 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=20&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Initializing+SEADAsXs+Core...;Connecting+to+IoT+networks...;Securing+system+integrity...;\"First,+solve+the+problem.+Then,+write+the+code.\"+-+John+Johnson" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=15&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds;%22Simplicity+is+prerequisite+for+reliability.%22+-+Edsger+W.+Dijkstra;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+-+Cory+House;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+-+Kent+Beck" alt="Typing SVG" />
   </a>
 </h4>
 
