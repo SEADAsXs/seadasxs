@@ -1,8 +1,8 @@
 <div style="font-family: 'Courier New', Courier, monospace;">
 
-<!-- Header con ondas elegantes de fondo y fuente Courier New sin gradientes estridentes -->
+<!-- Header con Ondas Elegantes Monocromáticas (Garantizado) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111,222222,333333&height=200&section=header&text=SEADAsXs&fontSize=42&fontColor=ffffff&fontType=Courier+New&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20IoT%20|%20Cybersecurity&descAlignY=58&descAlign=50&descColor=aaaaaa" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=18181b&height=200&section=header&text=SEADAsXs&fontSize=42&fontColor=ffffff&fontType=Courier+New&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20IoT%20|%20Cybersecurity&descAlignY=58&descAlign=50&descColor=a1a1aa" width="100%" alt="Header SEADAsXs" />
 </p>
 
 <!-- Texto animado tipo máquina de escribir con fuente Courier New -->
