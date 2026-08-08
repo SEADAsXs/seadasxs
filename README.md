@@ -1,8 +1,8 @@
 <div style="font-family: 'Courier New', Courier, monospace;">
 
 <!-- Header estático estilo terminal en texto plano (sin animaciones de fondo) -->
-<h1 align="center">SEADAsXs</h1>
-<p align="center"><b>Full Stack Developer | IoT | Cybersecurity</b></p>
+<h1 align="center"><code>SEADAsXs</code></h1>
+<p align="center"><b><code>Full Stack Developer | IoT | Cybersecurity</code></b></p>
 
 <!-- Texto animado tipo máquina de escribir con fuente Courier New -->
 <h4 align="center">
