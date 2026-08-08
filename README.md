@@ -1,8 +1,3 @@
-<!-- Header con líneas y movimiento dinámico elegante -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=SEADAsXs&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20|%20IoT%20|%20Cybersecurity&descAlignY=58&descAlign=50&descColor=aaaaaa" width="100%" />
-</p>
-
 <!-- Header animado funcional con ondas elegantes y movimiento dinámico -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0,000000,0.5,1a1a1a,1,333333&height=180&section=header&text=SEADAsXs&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20|%20IoT%20|%20Cybersecurity&descAlignY=60&descAlign=50&descColor=aaaaaa" width="100%" />
