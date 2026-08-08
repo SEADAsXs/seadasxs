@@ -1,19 +1,23 @@
-Markdown
-<!-- Header animado funcional con fuente Courier New en el título -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,000000,0.5,1a1a1a,1,333333&height=180&section=header&text=SEADAsXs&fontSize=42&fontColor=ffffff&font=Courier+New&weight&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20|%20IoT%20|%20Cybersecurity&descAlignY=60&descAlign=50&descColor=aaaaaa" width="100%" />
-</p>
+<div style="font-family: 'Courier New', Courier, monospace;">
 
-<!-- Texto animado tipo máquina de escribir con fuente Courier y frases históricas -->
-<h4 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=15&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds;%22Simplicity+is+prerequisite+for+reliability.%22+-+Edsger+W.+Dijkstra;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+-+Cory+House;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+-+Kent+Beck" alt="Typing SVG" />
-  </a>
-</h4>
+<!-- Header estático en texto plano sin efectos -->
+<h1 align="center">SEADAsXs</h1>
+<p align="center"><b>Full Stack Developer | IoT | Cybersecurity</b></p>
 
 <br />
 
-<!-- Sección de Habilidades (Mantiene los colores de los badges intactos) -->
+<!-- Frases históricas estáticas en fuente monospaciada -->
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i><br>
+  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i><br>
+  <i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i><br>
+  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i><br>
+  <i>"Make it work, make it right, make it fast." — Kent Beck</i>
+</p>
+
+<br />
+
+<!-- Sección de Habilidades -->
 <h2 align="center"><code>&lt;/&gt; Skills &amp; Technologies &lt;/&gt;</code></h2>
 
 <hr>
@@ -67,7 +71,7 @@ Markdown
 
 <br />
 
-<!-- Analytics con tema monocromático oscuro -->
+<!-- Analytics monocromático -->
 <h2 align="center"><code>Analytics</code></h2>
 
 <hr>
@@ -76,3 +80,5 @@ Markdown
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEADAsXs&layout=compact&theme=transparent&text_color=ffffff&title_color=ffffff" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=SEADAsXs&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=333333" alt="Overall Stats" />
 </p>
+
+</div>
