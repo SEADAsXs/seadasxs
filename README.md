@@ -1,10 +1,57 @@
 <div style="font-family: 'Courier New', Courier, monospace;">
 
-<!-- Header estático estilo terminal en texto plano (sin animaciones de fondo) -->
-<h1 align="center">SEADAsXs</h1>
-<p align="center"><b>Full Stack Developer | IoT | Cybersecurity</b></p>
+<!-- Recuadro con efecto de recorrido lumínico animado -->
+<p align="center">
+  <svg width="100%" height="140" viewBox="0 0 700 140" xmlns="http://www.w3.org/2000/svg" style="max-width: 700px;">
+    <defs>
+      <!-- Color de fondo oscuro de la caja -->
+      <style>
+        .bg-box { fill: #0d1117; rx: 10px; }
+        .title-text { fill: #ffffff; font-family: 'Courier New', monospace; font-size: 36px; font-weight: bold; text-anchor: middle; }
+        .sub-text { fill: #aaaaaa; font-family: 'Courier New', monospace; font-size: 14px; text-anchor: middle; }
+        
+        /* Línea base del borde */
+        .border-base {
+          fill: none;
+          stroke: #222222;
+          stroke-width: 2;
+          rx: 10px;
+        }
+        
+        /* Borde con recorrido de luz animada */
+        .border-glow {
+          fill: none;
+          stroke: #ffffff;
+          stroke-width: 2.5;
+          stroke-dasharray: 120 400;
+          stroke-dashoffset: 0;
+          rx: 10px;
+          animation: moveLight 4s linear infinite;
+        }
 
-<!-- Texto animado tipo máquina de escribir con fuente Courier New -->
+        @keyframes moveLight {
+          from { stroke-dashoffset: 0; }
+          to { stroke-dashoffset: -520; }
+        }
+      </style>
+    </defs>
+
+    <!-- Fondo de la tarjeta -->
+    <rect width="696" height="136" x="2" y="2" class="bg-box" />
+    
+    <!-- Línea estática del borde -->
+    <rect width="696" height="136" x="2" y="2" class="border-base" />
+    
+    <!-- Recorrido de luz -->
+    <rect width="696" height="136" x="2" y="2" class="border-glow" />
+
+    <!-- Textos dentro del recuadro -->
+    <text x="350" y="60" class="title-text">SEADAsXs</text>
+    <text x="350" y="95" class="sub-text">Full Stack Developer | IoT | Cybersecurity</text>
+  </svg>
+</p>
+
+<!-- Texto animado tipo máquina de escribir -->
 <h4 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=15&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds;%22Simplicity+is+prerequisite+for+reliability.%22+-+Edsger+W.+Dijkstra;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+-+Cory+House;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+-+Kent+Beck" alt="Typing SVG" />
