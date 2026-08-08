@@ -68,13 +68,7 @@
 <br />
 
 <!-- Analytics monocromático -->
-<h2 align="center"><code>Analytics</code></h2>
+<h2 align="center"><code>...</code></h2>
 
 <hr>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEADAsXs&layout=compact&theme=transparent&text_color=ffffff&title_color=ffffff" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SEADAsXs&show_icons=true&theme=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=333333" alt="Overall Stats" />
-</p>
-
 </div>
