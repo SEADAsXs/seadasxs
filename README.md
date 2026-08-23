@@ -16,7 +16,7 @@
 
 <hr>
 
-<p align="center"><b>💻 Programming, Web, Backend, Database & Data Visualization</b></p>
+<p align="center"><b>💻 Programming, Web, Backend, Database & Data Visualization1</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="pointer-events: none;" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="pointer-events: none;" />
